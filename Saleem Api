@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "tittle": "ASUS 2021 TUF F15",
+      "image": "https://m.media-amazon.com/images/I/71CqS1CYeKS._AC_UF894,1000_QL80_.jpg",
+      "description": "Gaming Laptop, 15.6 144Hz FHD Display, Intel Core i7-10870H up to 5.00 GHz, GeForce GTX 1660 Ti, 32GB RAM, 1TB SSD + 1TB HDD, RGB Backlit KB, RJ-45 Ethernet, Win 10 + Oydisen Cloth"
+    },
+    {
+      "id": 2,
+      "tittle": "MSI GF75 17.3",
+      "image": "https://m.media-amazon.com/images/I/41zTISc2P7L._AC_.jpg",
+      "description": "Gaming Laptop, i5-10300H, 8GB, 128GB SSD+1TB "
+    },
+    {
+      "id": 3,
+      "tittle": "ExpertBook B7 Flip",
+      "image": "https://www.asus.com/media/Odin/Websites/global/Series/15.png",
+      "description": "Windows 11 Pro for business Up to 13th Gen Intel® Core™ i7 processor with vPro® support Up to 64 GB DDR5 memory Up to 2 TB PCIe® 4.0 SSD storage Up to 16:10 QHD+ display 360˚ hinge with stylus support"
+    },
+    {
+      "id": 4,
+      "tittle": "Asus ProArt Studiobook",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202301/asus-proart-sixteen_nine.jpg?size=948:533",
+      "description": "Asus is taking a shot at the elusive glasses-free 3D tech with its new Pro Art Studio 16 laptop. The 16-inch 3.2K OLED screen can apparently switch to a 3D mode at the touch of a button. "
+    },
+    {
+      "id": 5,
+      "tittle": "ASUS 2021 TUF F15",
+      "image": "https://gamerbraves.sgp1.cdn.digitaloceanspaces.com/2020/04/premium-strix.jpg",
+      "description": "Gaming Laptop, 15.6 144Hz FHD Display, Intel Core i7-10870H up to 5.00 GHz, GeForce GTX 1660 Ti, 32GB RAM, 1TB SSD + 1TB HDD, RGB Backlit KB, RJ-45 Ethernet, Win 10 + Oydisen Cloth"
+    },
+    {
+      "id": 6,
+      "tittle": "ASUS ROG announces Premium Strix SCAR 17 Gaming Laptop",
+      "image": "https://m.media-amazon.com/images/I/41zTISc2P7L._AC_.jpg",
+      "description": "ASUS ROG has announced a special Strix SCAR 17 gaming laptop with ultrafast 300 Hz / 3ms display and NVIDIA GeForce RTX 2080 SUPER GPU and 17.3-inch display, helping professional esports players get every edge they need when they compete."
+    },
+    {
+      "id": 7,
+      "tittle": "Asus ROG Zephyrus Duo 15 SE",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJF9BwtJx-2SbAPfBl146fDW7sMEkbgMGgog&usqp=CAU",
+      "description": "Asus ROG first introduced its premium gaming laptop - the Zephyrus Duo 15 SE, in January this year during the CES 2021."
+    },
+    {
+      "id": 8,
+      "tittle": "HP OMEN",
+      "image": "https://m.media-amazon.com/images/I/81DfEZAvD3L._AC_SL1500_.jpg",
+      "description": "15.6 FHD, Intel Core i7-1255U 12th Gen, Intel Iris X Graphics, 8GB RAM, 512GB SSD, Windows 11 Home, Natural silver - 6W2H0EA"
+    },
+    {
+      "id": 9,
+      "tittle": "HP Spectre x360",
+      "image": "https://img.3ptechies.com/wp-content/uploads/2017/08/HP-Spectre-X360-300x225.png",
+      "description": "Operating System: Windows 10 home 64-bits Processor: 2.7-GHz – 7th Gen. Intel Core i7-7500U (Dual Core, up to 3.5 GHz, 4 MB cache) Memory: 16GB LPDDR3 -1600 SDRAM Hard Drive: PCIe (SSD)-  512GB PCIe NVMe TLC m.2 Screen size: 13.3” Graphics Card: Intel® HD Graphics 620 Battery: 3-cell, 57.8 Wh Li-ion, up to 16 Hours 15 minutes."
+    },
+    {
+      "id": 10,
+      "tittle": "HP Envy 15",
+      "image": "https://img.3ptechies.com/wp-content/uploads/2017/08/HP-Envy-15-720x513.jpg",
+      "description": "Operating System: Windows 10 Pro 64-bits Processor: 2.7-GHz – 7th Gen. Intel Core i7-7500U (Dual Core, up to 3.5 GHz Turbo Boost Technology, 4 MB cache) Memory: 16GB DDR4 -2133 SDRAM Hard Drive: PCIe (SSD)-  512GB PCIe NVMe TLC m.2 Screen size: 15.6” Graphics Card: Intel® HD Graphics 620 Battery: 3-cell, 52 Wh Li-ion, up to 7 Hours 30 minutes."
+    },
+    {
+      "id": 11,
+      "tittle": "HP x360",
+      "image": "https://img.3ptechies.com/wp-content/uploads/2017/08/HP-Pavilion-360-300x225.png",
+      "description": "Operating System: Windows 10 Home 64-bits Processor: Intel Celeron N3060 – Intel Turbo Boost Memory: 4GB DDR3L -1600 SDRAM Hard Drive: 32GB eMMC Screen size: 11.6” Graphics Card: Intel® HD Graphics 400 Battery: 3-cell, 41 Wh Li-ion."
+    },
+    {
+      "id": 12,
+      "tittle": "HP Spectre x360 – 15-bl075nr",
+      "image": "https://m.media-amazon.com/images/I/41zTISc2P7L._AC_.jpg",
+      "description": "Operating System: Windows 10 Home 64-bits with windows ink Processor: 2.7-GHz – 7th Gen. Intel Core i7-7500U (Dual Core, up to 3.5 GHz Turbo Boost Technology, 4 MB cache) Memory: 16GB DDR4 -2133 SDRAM Hard Drive: PCIe (SSD)-  512GB PCIe NVMe TLC m.2 Screen size: 15.6” Graphics Card: NVIDIA® GeForce® 940MX (2 GB GDDR5 dedicated) Battery: 6-cell, 79.2 Wh Li-ion, up to 12 Hours 45 minutes."
+    },
+    {
+      "id": 13,
+      "tittle": "HP x360",
+      "image": "https://img.3ptechies.com/wp-content/uploads/2017/08/HP-Pavilion-360-300x225.png",
+      "description": "Operating System: Windows 10 Home 64-bits Processor: Intel Celeron N3060 – Intel Turbo Boost Memory: 4GB DDR3L -1600 SDRAM Hard Drive: 32GB eMMC Screen size: 11.6” Graphics Card: Intel® HD Graphics 400 Battery: 3-cell, 41 Wh Li-ion."
+    },
+    {
+      "id": 14,
+      "tittle": "HP Envy Laptop – 15t",
+      "image": "https://img.3ptechies.com/wp-content/uploads/2017/08/HP-Laptop-15t-300x225.png",
+      "description": "Operating System: Windows 10 Home 64-bits / Windows 10 Pro 64  Processor: 2.7-GHz – 7th Gen. Intel Core i7-7500U (Dual Core, up to 3.5 GHz Turbo Boost Technology, 4 MB cache)  Memory: 8/12/16GB DDR4 -2133 SDRAM  Hard Drive: 1TB 5400rpm SATA (128GB M.2 SSD)  Screen size: 15.6”  Graphics Card: Intel® HD Graphics 620  Battery: 4-cell, 41 Wh Li-ion"
+    },
+    {
+      "id": 15,
+      "tittle": "HP EliteBook x360 1030 G2 – NoteBook PC",
+      "image": "https://img.3ptechies.com/wp-content/uploads/2017/08/HP-EliteBook-X360-300x225.png",
+      "description": "Operating System: Windows 10 Pro 64-bits Processor: 2.5-GHz – Intel Core i5-7500U (Dual Core, 3 MB cache) Memory: 8/16GB DDR4 -2133 SDRAM Hard Drive: 512 GB M.2-2280 Turbo Drive G2 – PCIe 3×4 NVMe (TLC) (SSD) Screen size: 13.3” Graphics Card: Intel® HD Graphics 620 – X3U19AV Battery: 16 hours 30 minutes "
+    },
+    {
+      "id": 16,
+      "tittle": "Nitro 5 Spin",
+      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/14-7430-2in1-intel/media-gallery/notebook-inspiron-14-7430-silver-fpr-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=632&qlt=100,1&resMode=sharp2&size=632,402&chrss=full",
+      "description": "Operating System: Windows 10 home 64-bits Processor: 2.80-GHz – Intel Core i7-7700HQ (Quad-core) Memory: 8/16/32GB DDR4 SDRAM Hard Drive: 1TB PCIe (SSD): 128GB  Screen size: 15.6″ Graphics Card: NVIDIA GeForce® GTX 1050 Ti (4GB, GDRR5)"
+    },
+    {
+      "id": 17,
+      "tittle": "Acer swift 7",
+      "image": "https://img.3ptechies.com/wp-content/uploads/2017/08/HP-Pavilion-360-300x225.png",
+      "description": "Operating System: Windows 10 home 64-bits Processor: 1.2GHz Intel Core i5-7Y54 (dual-core, 4MB cache) Memory: 8GB LPDDR3 Hard Drive: 1TB PCIe (SSD): 256GB SATA  Screen size: 13.3″ Graphics Card: Intel HD Graphics 615 Battery: 4-cell Li-poly, 2700mAh"
+    },
+    {
+      "id": 18,
+      "tittle": "Acer Aspire V Nitro",
+      "image": "https://img.3ptechies.com/wp-content/uploads/2017/09/Acer-Aspire-V-Nitro-320x158.jpg",
+      "description": "Operating System: Windows 10 home 64-bits Processor: 2.60 GHz Intel Core i7-6700HQ (Dual-core) Memory: 16/32GB DDR4 SDRAM Hard Drive: 512GB PCIe (SSD): SATA  Screen size: 15.6″ Graphics Card: NVIDIA GeForce GTX 760M Battery: 3-cell, 4605 mAh Li-ion, 5 hours uptime. "
+    },
+    {
+      "id": 19,
+      "tittle": "Acer Switch 7 Black Edition",
+      "image": "https://img.3ptechies.com/wp-content/uploads/2017/09/Acer-Switch-7.jpg",
+      "description": "Operating System: Windows 10 home 64-bits Processor: 8th Gen Intel Core i7-Processor Memory: 16GB LPDDR3 SDRAM Screen size: 13.5″ Graphics Card: NVIDIA GeForce MX150"
+    },
+    {
+      "id": 20,
+      "tittle": "HP Envy Laptop – 15t",
+      "image": "https://img.3ptechies.com/wp-content/uploads/2017/08/HP-Laptop-15t-300x225.png",
+      "description": "Operating System: Windows 10 Home 64-bits / Windows 10 Pro 64  Processor: 2.7-GHz – 7th Gen. Intel Core i7-7500U (Dual Core, up to 3.5 GHz Turbo Boost Technology, 4 MB cache)  Memory: 8/12/16GB DDR4 -2133 SDRAM  Hard Drive: 1TB 5400rpm SATA (128GB M.2 SSD)  Screen size: 15.6”  Graphics Card: Intel® HD Graphics 620  Battery: 4-cell, 41 Wh Li-ion"
+    }
+  ]
+  
